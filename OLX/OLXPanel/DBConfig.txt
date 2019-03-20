@@ -1,0 +1,4 @@
+Data Source=localhost;
+Initial Catalog=OLX;
+User Id=sa;
+Password=nathan123;
